@@ -1,0 +1,19 @@
+.center {
+  text-align: center;
+}
+
+.text-6 {
+  font-size: 6rem;
+}
+
+.text-4 {
+  font-size: 4rem;
+}
+
+.block {
+  display: block;
+}
+
+.m-auto {
+  margin: 0 auto;
+}
